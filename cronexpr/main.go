@@ -18,7 +18,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gorhill/cronexpr"
+	"github.com/n4n0lix/cronexpr"
 )
 
 /******************************************************************************/
